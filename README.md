@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 stat 표시
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjyi0615&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjyi0615&layout=compact&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjyi0615&layout=compact&theme=graywhite)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjyi0615)](https://solved.ac/wjyi0615/)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wjyi0615&utm_content=farm">
