@@ -2,7 +2,7 @@
 
 <sub>AI · DATA · WEB</sub>
 
-# 이우중 | Woojoong Yi
+# 이우중 | WooJoong Yi
 
 **데이터를 분석하고, 모델을 만들고, 웹으로 연결합니다.**
 
